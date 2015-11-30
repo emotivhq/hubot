@@ -1,12 +1,12 @@
-# Hubot
+# Giftbot
 
-Hubot is a chat bot, modeled after GitHub's Campfire bot, hubot. He's pretty
-cool. He's [extendable with scripts](http://hubot.github.com/docs/#scripts) and can work on [many
+Giftbot is a chat bot, modeled after GitHub's Campfire bot, hubot. He's pretty
+cool. He's [extendable with scripts](https://github.com/hubot-scripts) and can work on [many
 different chat services](https://hubot.github.com/docs/adapters/).
 
-This repository provides a library that's distributed by `npm` that you
-use for building your own bots.  See the [documentation](http://hubot.github.com/docs)
-for details on getting up and running with your very own robot friend.
+This repository provides a library that's distributed by `npm` that we
+use for building our own bots.  See the [documentation](http://hubot.github.com/docs)
+for details on our very own robot friend, Giftbot (aka Ethan aka Daisy).
 
 In most cases, you'll probably never have to hack on this repo directly if you
 are building your own bot. But if you do, check out [CONTRIBUTING.md](CONTRIBUTING.md)
