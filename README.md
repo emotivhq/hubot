@@ -1,6 +1,6 @@
-# Giftbot
+# Chaboi
 
-Giftbot is a chat bot, modeled after GitHub's Campfire bot, hubot. He's pretty
+`chaboi` is a chat bot, modeled after GitHub's Campfire bot, `hubot`. He's pretty
 cool. He's [extendable with scripts](https://github.com/hubot-scripts) and can work on [many
 different chat services](https://hubot.github.com/docs/adapters/).
 
