@@ -1,7 +1,6 @@
-# Chaboi
 ![](https://img.society6.com/cdn/0017/p/6305682_12709987_lz.jpg)
 
-`chaboi` is a chat bot, modeled after GitHub's Campfire bot, `hubot`. He's pretty
+`#chaboi` is a chat bot, modeled after GitHub's Campfire bot, `hubot`. He's pretty
 cool. He's [extendable with scripts](https://github.com/hubot-scripts) and can work on [many
 different chat services](https://hubot.github.com/docs/adapters/).
 
