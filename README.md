@@ -1,5 +1,3 @@
-![](https://img.society6.com/cdn/0017/p/6305682_12709987_lz.jpg)
-
 `Hubot` (prounounced *hew-bot*) is a smart bot, modeled after GitHub's Campfire bot, `hubot`. He's pretty
 cool. He's [extendable with scripts](https://github.com/hubot-scripts) and can work with [many
 different services](https://hubot.github.com/docs/adapters/).
